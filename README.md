@@ -1,24 +1,18 @@
-# PA2: openFrameworks Diner Dash
-The objective for this first project is to complete the game called Diner Dash with the help of openFrameworks!
+# Diner Dash
 
-# What it can do out of the box
-After compiling and running the project for the first time, you should be able to do a couple of things:
+# Objective
+- Serve as many customers as possible in our version of Diner Dash! Make burgers to match your customers orders and make them happy, earn money, and win. Watch out for Inspector Tororo though!
+- To win, you must earn $100.
+- Customers have limited patience and, if 10 of them leave, you lose. 
 
-- The chef will move from one side of the screen to another
-- Using the 'e' key, you can select ingredients to add to your burger.
-- Using the 's' key, you can serve customers in line the burger you have created.
+# Controls
+- arrow keys to move side to side
+- 'e' key to pick up/cook ingredients
+- 's' key to serve clients
+- 'u' key to undo/remove last ingredient
 
-# Classes
-This project has a lot of classes and OOP concepts in it, so make sure to study the code base well and familiarize yourself with OOP.
+# Collaborators
+- Fabiola Z. Torres Maldonado
+- Jaimylee Feliberty Padilla
 
-# Student Info
-Please fill out the information below for each member of the team:
-
-### [ Fabiola Z. Torres Maldonado : fabiola.torres28@upr.edu ]
-
-### [ Jaimylee Feliberty Padilla : jaimylee.feliberty@upr.edu ]
-
-# Decorations
-- Tables
-- Plant and books
-- Hanging plant
+This game was a project for an Advanced Programming course at UPRM and was made from base code provided by the professors and TAs.
